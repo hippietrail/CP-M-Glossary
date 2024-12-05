@@ -7,6 +7,7 @@ Acronyms and other terms pertaining to the CP/M operating system from the '70s a
 - **DDT** - **D**ynamic **D**ebugging **T**echnique
 - **MP/M** - **M**ulti-**P**rogramming **M**onitor Control Program
 - **PDB** - **P**arameter **B**lock
+- **RSX** - **R**esident **S**ystem E**x**tension
 - **TPA** - **T**ransient **P**rogram **A**rea
 - **SCB** - **S**ystem **C**ontrol **B**lock
 - **ZCPR** - **Z**80 **C**ommand **P**rocessor **R**eplacement
